@@ -12,3 +12,7 @@ output/**
 .project
 .cache/**
 target/
+out
+out/**
+build
+build/**
