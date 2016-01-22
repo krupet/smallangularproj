@@ -1,0 +1,3 @@
+rootProject.name = 'smallangularproj'
+include 'server'
+

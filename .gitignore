@@ -1,0 +1,14 @@
+output/**
+*.class
+*~
+*.iml
+*/.idea/**
+.idea/**
+.idea
+*.log
+.gradle
+.gradle/**
+*/.project
+.project
+.cache/**
+target/
